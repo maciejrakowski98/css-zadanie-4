@@ -1,31 +1,25 @@
 body {
-    background-color: #f5f5dd;
+  background-color: #f5f5dd;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
 }
 
 .square1 {
-    width: 200px;
-    height: 200px;
-    background-color: black;
-    margin: 10px;
+  background-color: rgba( 0, 0, 0, 1)
 }
 
 .square2 {
-    width: 200px;
-    height: 200px;
-    background-color: rgba(0, 0, 0, 0.75);
-    margin: 10px;
+  background-color: rgba( 0, 0, 0, 0.75)
 }
 
 .square3 {
-    width: 200px;
-    height: 200px;
-    background-color: rgba(0, 0, 0, 0.50);
-    margin: 10px;
+  background-color: rgba( 0, 0, 0, 0.5)
 }
 
 .square4 {
-    width: 200px;
-    height: 200px;
-    background-color: rgba(0, 0, 0, 0.25);
-    margin: 10px;
+  background-color: rgba( 0, 0, 0, 0.25)
 }
